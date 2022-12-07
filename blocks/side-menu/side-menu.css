@@ -1,0 +1,20 @@
+.sidemenu {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: auto;
+    background-color: var(--background);
+    border: solid 1px black;
+}
+
+.sidemenuentry {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: auto;
+}
+
+.sidemenuentry span.icon svg {
+    
+}
+}
